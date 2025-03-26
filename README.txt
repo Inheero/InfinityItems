@@ -1,37 +1,17 @@
--------------------------------------------
-Source installation information for modders
--------------------------------------------
-This code follows the Minecraft Forge installation methodology. It will apply
-some small patches to the vanilla MCP source code, giving you and it access 
-to some of the data and functions you need to build a successful mod.
+                        === InfinityItems ===
 
-Note also that the patches are built against "unrenamed" MCP source code (aka
-srgnames) - this means that you will not be able to read them directly against
-normal code.
+  Кастомный мод на open source системе разработанный Inhero для minecraft проекта - Project Infinity ,
+совместно с Георгием "Veritaris" , представителем проекта - Dreamfinity .
 
-Source pack installation information:
+  Мод нацелен на различные изменения в  minecraft , а так-же ряде модов , для усовершенствования игрового
+опыта. В версии от 26.03.2025 представлено :
 
-Standalone source installation
-==============================
-
-To install this source code for development purposes, extract this zip file.
-It ships with a demonstration mod. Run 'gradlew setupDevWorkspace' to create
-a gradle environment primed with FML. Run 'gradlew eclipse' or 'gradlew idea' to
-create an IDE workspace of your choice.
-Refer to ForgeGradle for more information about the gradle environment
-Note: On macs or linux you run the './gradlew.sh' instead of 'gradlew'
-
-Forge source installation
-=========================
-MinecraftForge ships with this code and installs it as part of the forge
-installation process, no further action is required on your part.
-
-For reference this is version @MAJOR@.@MINOR@.@REV@.@BUILD@ of FML
-for Minecraft version @MCVERSION@.
-
-LexManos' Install Video
-=======================
-https://www.youtube.com/watch?v=8VEdtQLuLO0&feature=youtu.be
-
-For more details update more often refer to the Forge Forums:
-http://www.minecraftforge.net/forum/index.php/topic,14048.0.html
+- Множество новых предметов для крафтов ;
+- Изменение WorldGen - Добавлено 4 новых дерева ;
+- Изменение WorldGen - Добавлены 5 новых руд ;
+- Изменение WorldGen - Озеро Мерцания из игры Terraria ;
+- Три новые жидкости ;
+- Кирка с зачарованием "Удача" десятого уровня ;
+- Новая еда дающая все ванильные "бафы" minecraft ;
+- Адоптация механики с поджиганием бедрока из мода EnderIO версии 1.12.2 ;
+- Добавление трех новых мощных цветков для Botania - Мидгаровый подсолнух , Хельхеймовый сорняк , Асгардоодуванчик ;
