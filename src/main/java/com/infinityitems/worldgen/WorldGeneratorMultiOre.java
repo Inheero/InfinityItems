@@ -37,7 +37,12 @@ public class WorldGeneratorMultiOre implements IWorldGenerator {
             new OreData(InfinityItemsCore.tungustenOre, 5, 30, 3, 7, 4),
             new OreData(InfinityItemsCore.lithiumOre, 20, 60, 4, 10, 2),
             new OreData(InfinityItemsCore.titanOre, 15, 50, 1, 5, 5),
-            new OreData(InfinityItemsCore.vanadiumOre, 12, 45, 2, 6, 3)
+            new OreData(InfinityItemsCore.vanadiumOre, 12, 45, 2, 6, 3),
+            new OreData(InfinityItemsCore.californiumOre, 12, 45, 2, 6, 3),
+            new OreData(InfinityItemsCore.berkeliumOre, 12, 45, 2, 6, 3),
+            new OreData(InfinityItemsCore.einsteiniumOre, 12, 45, 2, 6, 3),
+            new OreData(InfinityItemsCore.neptuniumOre, 12, 45, 2, 6, 3),
+            new OreData(InfinityItemsCore.thoriumOre, 12, 45, 2, 6, 3)
     );
 
     @Override

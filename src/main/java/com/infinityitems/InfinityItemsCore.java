@@ -73,6 +73,11 @@ public class InfinityItemsCore {
     public static Block customLogFo;
     public static Block customSaplingFo;
     public static Item bedrockEmber;
+    public static Block berkeliumOre;
+    public static Block californiumOre;
+    public static Block einsteiniumOre;
+    public static Block neptuniumOre;
+    public static Block thoriumOre;
 
     private void registerSubtiles() {
         customLog = new BlockCustomLog().setCreativeTab(InfinityItemsCore.tab);
@@ -147,6 +152,16 @@ public class InfinityItemsCore {
         GameRegistry.registerBlock(titanOre,"titanOre");
         vanadiumOre = new BlockVanadiumOre();
         GameRegistry.registerBlock(vanadiumOre,"vanadiumOre");
+        berkeliumOre = new BlockBerkeliumOre();
+        GameRegistry.registerBlock(berkeliumOre,"berkeliumOre");
+        californiumOre = new BlockCaliforniumOre();
+        GameRegistry.registerBlock(californiumOre,"californiumOre");
+        einsteiniumOre = new BlockEinsteiniumOre();
+        GameRegistry.registerBlock(einsteiniumOre,"einsteiniumOre");
+        neptuniumOre = new BlockNeptuniumOre();
+        GameRegistry.registerBlock(neptuniumOre,"neptuniumOre");
+        thoriumOre = new BlockThoriumOre();
+        GameRegistry.registerBlock(thoriumOre,"thoriumOre");
         registerSubtiles();
         bedrockEmber = new ItemBedrockEmber();
         GameRegistry.registerItem(bedrockEmber, "bedrock_ember");

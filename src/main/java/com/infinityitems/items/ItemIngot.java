@@ -24,7 +24,12 @@ public class ItemIngot extends Item {
             "originalmetal",
             "powersinal",
             "thermoinvasivecore",
-            "primordialmana"
+            "primordialmana",
+            "thorium",
+            "neptunium",
+            "californium",
+            "berkelium",
+            "einsteinium"
     };
 
     @SideOnly(Side.CLIENT)
