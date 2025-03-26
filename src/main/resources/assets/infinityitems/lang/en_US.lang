@@ -1,0 +1,124 @@
+itemGroup.infinity_items_tab=Infinity Items
+
+#Компоненты
+item.component.capacitor1lvl.name=Конденсатор 1 уровня
+item.component.capacitor2lvl.name=Конденсатор 2 уровня
+item.component.capacitor3lvl.name=Конденсатор 3 уровня
+item.component.capacitor4lvl.name=Конденсатор 4 уровня
+item.component.gpu1lvl.name=Процессор 1 уровня
+item.component.gpu2lvl.name=Процессор 2 уровня
+item.component.gpu3lvl.name=Процессор 3 уровня
+item.component.gpu4lvl.name=Процессор 4 уровня
+item.component.chip8Bit.name=8 битный чип памяти
+item.component.chip16Bit.name=16 битный чип памяти
+item.component.chip32Bit.name=32 битный чип памяти
+item.component.chip64Bit.name=64 битный чип памяти
+
+#Жидкости
+item.diamond_bucket.name=Ведро жидкого алмаза
+tile.fluid_diamond.name=Жидкий алмаз
+item.space_bucket.name=Ведро космической субстанции
+tile.fluid_space.name=Космическая субстанция
+
+#Техномагия
+item.technomagic.thetree.name=Древо Техномагии
+item.technomagic.draconicenergycore.name=Энергетическое ядро дракона
+item.ichorstar.name=Сингулярная звезда
+
+#Чат
+infinityitems.tooltips.nofill= У вас нет права набрать жидкость !
+infinityitems.tooltips.dofill= У вас нет права разлить жидкость !
+infinityitems.tooltip.midassa=С любовью из Террариии !
+
+#Пилы
+item.circular.basicircular.name=Базовая циркулярная пила
+item.circular.advancedcircular.name=Усиленная циркулярная пила
+item.circular.rainforcedcircular.name=Укреплённая циркулярная пила
+item.circular.reseoncircular.name=Резонирующая циркулярная пила
+
+#Пластины
+item.plate.silverplate.name=Серебрянная пластина
+
+#Творчество
+item.creative.alhimical.name=Великое алхмимическое зелье
+
+#Еда
+item.infinityitems.midassa.name=Пиршество Мидаса
+
+#Термал Элементы
+item.thermol.coil1.name=Медная индукционная катушка
+item.thermol.coil2.name=Электрумовая индукционная катушка
+item.thermol.coil3.name=Ламиумовая индукционная катушка
+item.thermol.coil4.name=Мифриловая индукционная катушка
+item.thermol.wire1.name=Медная проволока
+item.thermol.wire2.name=Электрумовая проволока
+item.thermol.wire3.name=Ламиумовая проволока
+item.thermol.wire4.name=Мифриловая проволока
+item.thermol.claims1.name=Усиленная глиняная смесь
+item.thermol.claims2.name=Укреплённая глиняная смесь
+item.thermol.claims3.name=Резонирующая глиняная смесь
+item.thermol.camera1.name=Базовая камера печи (Не обожённая)
+item.thermol.camera2.name=Усиленная камера печи (Не обожённая)
+item.thermol.camera3.name=Укреплённая камера печи (Не обожённая)
+item.thermol.camera4.name=Резонирующая камера печи (Не обожённая)
+item.thermol.cameras1.name=Базовая камера печи
+item.thermol.cameras2.name=Усиленная камера печи
+item.thermol.cameras3.name=Укреплённая камера печи
+item.thermol.cameras4.name=Резонирующая камера печи
+item.thermol.nottigel1.name=Базовый необожженный тигель
+item.thermol.nottigel2.name=Усиленный необоженный тигель
+item.thermol.nottigel3.name=Укрепленный необоженный тигель
+item.thermol.nottigel4.name=Резонирующий необоженный тигель
+item.thermol.tigel1.name=Базовый обоженный тигель
+item.thermol.tigel2.name=Усиленный обоженный тигель
+item.thermol.tigel3.name=Укрепленный обоженный тигель
+item.thermol.tigel4.name=Резонирующий обоженный тигель
+item.thermol.valik1.name=Базовый вал
+item.thermol.valik2.name=Усиленный вал
+item.thermol.valik3.name=Укрепленный вал
+item.thermol.valik4.name=Резонирующий вал
+item.thermol.valdrob1.name=Базовый вал дробления
+item.thermol.valdrob2.name=Усиленный вал дробления
+item.thermol.valdrob3.name=Укрепленный вал дробления
+item.thermol.valdrob4.name=Резонирующий вал дробления
+item.thermol.lezvie1.name=Базовое лезвие циркулярной пилы
+item.thermol.lezvie2.name=Усиленное лезвие циркулярной пилы
+item.thermol.lezvie3.name=Укрепленное лезвие циркулярной пилы
+item.thermol.lezvie4.name=Резонирующие лезвие циркулярной пилы
+
+#Руды
+tile.rareOre.name=Останки виверны
+tile.tungstenOre.name=Вольфрамавая руда
+tile.lithiumOre.name=Литиумовая руда
+tile.titanOre.name=Титановая руда
+tile.vanadiumOre.name=Ванадиевая руд
+
+#Деревья
+tile.custom_log.name=Ствол водного древа
+tile.customLeaves.name=Листва водного древа
+tile.customSapling.name=Саженец водного древа
+
+#Слитки Термал
+item.ingot.pirotiumingot.name=Пиротиумовый слиток
+item.ingot.petrotiumingot.name=Петротиумный слиток
+item.ingot.creotiumingot.name=Креотиумовый слиток
+item.ingot.aerotiumingot.name=Слиток аэротиума
+item.ingot.filledenderium.name=Наполненный эндериум
+item.ingot.enchantmifril.name=Зачарованный мифрил
+item.ingot.originalmetal.name=Слиток из изначальной маны
+item.ingot.powersinal.name=Энергетический синал
+item.ingot.thermoinvasivecore.name=Первородное ядро
+item.ingot.primordialmana.name=Лилия Маны
+
+#Цветы
+infinityitems.flower.asgardDandelion.name=Асгардоодуванчик
+infinityitems.flower.helheimWeed.name=Хельхеймовый сорняк
+infinityitems.flower.midgardSunflower.name=Мидгаровый подсолнух
+
+#Кирки
+item.fortunePickaxe.name=Кристальная кирка
+infinitymagic.tooltip.fortunepickaxe=Наполненая удачей кирка , созданая мифическим кузнецом Nelson`ом !
+
+
+
+
