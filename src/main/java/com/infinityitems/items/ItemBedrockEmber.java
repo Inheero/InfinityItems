@@ -10,4 +10,3 @@ public class ItemBedrockEmber extends Item {
         setCreativeTab(InfinityItemsCore.tab);
     }
 }
-
