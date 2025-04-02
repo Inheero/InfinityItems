@@ -78,6 +78,7 @@ public class InfinityItemsCore {
     public static Block einsteiniumOre;
     public static Block neptuniumOre;
     public static Block thoriumOre;
+    public static Block customPlanks;
 
     private void registerSubtiles() {
         customLog = new BlockCustomLog().setCreativeTab(InfinityItemsCore.tab);
@@ -105,6 +106,9 @@ public class InfinityItemsCore {
         GameRegistry.registerBlock(customSaplingFo,"customSaplingFo");
         GameRegistry.registerBlock(customLogFo,customLogFo.getUnlocalizedName().substring(5));
         GameRegistry.registerBlock(customLeavesFo,"customLeavesFo");
+
+        customPlanks = new BlockCustomPlanks();
+        GameRegistry.registerBlock(customPlanks, ItemCustomPlanks.class, "custom_planks");
 
         BotaniaAPI.registerSubTile("asgardDandelion", AsgardDandelion.class);
         BotaniaAPI.addSubTileToCreativeMenu("asgardDandelion");

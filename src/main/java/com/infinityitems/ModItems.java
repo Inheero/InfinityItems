@@ -19,10 +19,8 @@ public class ModItems {
     public static final Item TM_TECHNOMAGIC = new ItemTechnomagic();
     public static final Item TM_WOOD = new ItemWoodBucket(Blocks.water);
     public static final Item TM_PLATE = new ItemPlate();
-    public static final Item TM_CIRCULAR = new ItemCircular();
     public static final Item TM_INGOT = new ItemIngot();
     public static final Item TM_MIDASSA = new ItemMidassa();
-    public static final Item TM_THERMOL = new ItemThermol();
     public static final Item TM_SEEDS = new ItemSeeds();
     public static final Item TM_SPLAV = new ItemSplav();
     public static final Item TM_SPLAVINGOT = new ItemSplavingot();
@@ -34,10 +32,8 @@ public class ModItems {
         registerItem(TM_TECHNOMAGIC);
         registerItem(TM_WOOD);
         registerItem(TM_PLATE);
-        registerItem(TM_CIRCULAR);
         registerItem(TM_INGOT);
         registerItem(TM_MIDASSA);
-        registerItem(TM_THERMOL);
         registerItem(TM_SEEDS);
         registerItem(TM_SPLAVINGOT);
         registerItem(TM_SPLAV);
